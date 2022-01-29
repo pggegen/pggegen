@@ -1,4 +1,5 @@
-The personal GitHub repository of @pggegen where I can learn a few things about GitHub.
+The personal GitHub repository of @pggegen
+I am using this repo to learn a few things about GitHub.
 
 <!---
 pggegen/pggegen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
